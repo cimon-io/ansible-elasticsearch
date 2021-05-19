@@ -1,4 +1,3 @@
-<!
 <!--
 
 ** Please read the guidelines below. **
@@ -38,4 +37,4 @@ Please specify the full playbook used to reproduce this issue.
 
 **Provide logs from Ansible**:
 
-**ES Logs if irrelevant**:
+**ES Logs if relevant**:
